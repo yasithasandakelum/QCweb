@@ -1,0 +1,6 @@
+{
+  "name": "MRP, Quality & Production Management System",
+  "description": "Integrated Quality Inspection (ANSI/ASQ Z1.4 AQL), Daily Production Tracking, Monthly MRP Inventory Planning, Supplier Delivery & Urgent Replenishment System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
